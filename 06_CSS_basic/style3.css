@@ -1,0 +1,180 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+.header{
+    text-align: center;
+    background-image: url("img/building.jpg");
+    background-repeat: repeat-y;
+    height: 150px;  
+}
+.body{
+    height: 350px;
+    width: 1000px;
+    margin: auto;
+   
+    
+    display: flex;
+
+}
+.img{
+    height: auto;
+    width: auto;
+    margin: 80px;
+    margin-top: 100px;
+    margin-bottom: auto;
+   
+  
+}
+
+.intro{
+
+    margin-top: 100px;
+    margin-right: 150px;
+    text-align: justify;
+    
+    
+   
+}
+.button1{
+    margin-top: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    width: 100px;
+    height: 25px;
+
+}
+.body1{
+    height: 350px;
+    width: 1000px;
+    margin: auto;
+   
+    
+    display: flex;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    margin: 100px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+   
+  
+
+    
+   
+}
+.name{
+    margin: 110px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 99px;
+    color:blue;
+    
+}
+.data{
+    
+        box-sizing: border-box; /* Includes padding and border in width/height */
+        width: 200px;
+        height: 100px;
+        padding: 10px;  /* Padding will not increase overall width/height */
+        text-align: justify;
+        margin: 100px;
+        margin-top: 10px;
+}
+.icon1{
+    height: 50px;
+    width: 50px;
+    margin: 100px;
+    margin-left: 80px;
+    margin-bottom: 15px;
+  
+ 
+  
+
+}
+.name1{
+    margin: 110px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 10px;
+    color:blue;
+}
+.data2{
+    box-sizing: border-box; /* Includes padding and border in width/height */
+    width: 200px;
+    height: 100px;
+    padding: 10px;  /* Padding will not increase overall width/height */
+    text-align: justify;
+    margin: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.icon2{
+    height: 50px;
+    width: 50px;
+    margin: 100px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+
+}
+.name2{
+    margin: 110px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 10px;
+    color:blue;
+}
+.data3{
+    box-sizing: border-box; /* Includes padding and border in width/height */
+    width: 200px;
+    height: 100px;
+    padding: 10px;  /* Padding will not increase overall width/height */
+    text-align: justify;
+    margin: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.body2{
+    height: 200px;
+    width: 1000px;
+    margin: auto;
+  
+}
+.work{
+    margin: 430px;
+    margin-top: 30px;
+    color:blue;
+    margin-bottom: 50px;
+} 
+.work1{ 
+    margin: 350px;
+    margin-top: 8px;
+    width: 600px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 200px;
+    margin-bottom: 1px;
+
+   
+}
+.body3{
+    margin-top: 5px;
+    height: 400px;
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    
+
+}
+.body3 .img1{
+    margin: 20px;
+    width: 200px;  
+    height: auto;  
+    overflow: hidden;
+}
+
+
+    

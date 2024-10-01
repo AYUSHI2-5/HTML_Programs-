@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+div.one{ height: 60px;
+  width: 100%;
+  background-color: #0f1111;
+  }
+ a{
+    margin: 120px;
+    text-decoration: none;
+    
+
+ }
+ .items {
+  margin: 60px;
+  display: inline;
+ }
+ .items img{
+  margin: 60px;
+  height: 100;
+  width: 20%;
+ }

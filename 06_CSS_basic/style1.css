@@ -1,0 +1,28 @@
+div{
+    margin: 25px;
+    height: 100px;
+    width: 100px;
+    padding: 55px;
+    display: inline-block;
+}
+.one{
+    background-color: aquamarine;
+   
+}
+.two{
+    background-color: aqua;
+    visibility: hidden;
+   
+    
+}
+.three{
+    background-color: blanchedalmond;
+    
+}
+.fou{
+    background-color: bisque;
+    display: none;
+}
+.five{
+    background-color: blue;
+}

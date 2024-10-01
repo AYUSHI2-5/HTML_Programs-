@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main1{
+   /* background-image: url("img/building.jpg");*/
+    height: 1000px;
+    width: 2000px;
+}
+.content{
+    
+    color: aliceblue;
+    text-align: left;
+   
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.line{
+    width: 1500px;
+    height: 3px;
+    background-color: aliceblue;
+}
+.content1{
+    height: 100px;
+    width: 1000px;
+    margin: 70px;
+    border: red solid;
+    text-align: justify;
+    margin-top: 50px;
+    padding: 10px;
+    line-height: 30px;
+}
+.icon1{
+    height: 49px;
+    width: 50px;
+    border: red solid;
+    margin-top: 34px;
+    margin: 37px;
+    margin-left: 115px;
+    margin-right: -3px;
+}
+.loc {
+   
+    border: red solid;
+    /* height: auto; */
+    width: 106px;
+    margin-top: 55px;
+    margin-top: 49px;
+    margin-bottom: 463px;
+    margin-left: 9px;
+}
+
+.one{
+    display: flex;
+    margin: 139px;
+    margin-left: 123px;
+}
+.icon2{
+   
+    height: 49px;
+    width: 50px;
+    border: red solid;
+    margin-bottom: 100px;
+    margin-top: 46px;
+    margin-left: 296px;
+    
+}
+.num{
+    
+    border: red solid;
+    width: 91px;
+    height: 18px;
+    margin: 361px;
+    margin-top: -126px;
+    margin-left: 355px;
+
+}
+.icon3{
+    height: 82px;
+    width: 78px;
+    border: red solid;
+
+}
+    
+    
+
